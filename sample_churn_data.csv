@@ -1,0 +1,4 @@
+gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,AutoPay,CustomerServiceCalls
+Male,0,1,0,2.5,1,0,Fiber optic,0,0,0,0,1,1,Month-to-month,1,Electronic check,75.5,2250.0,0,3
+Female,1,0,0,5.0,1,1,DSL,1,0,1,0,0,1,Two year,0,Credit card,45.2,2710.0,1,1
+Male,0,1,1,1.2,1,0,Fiber optic,0,1,0,0,1,0,Month-to-month,1,Electronic check,85.0,1020.0,0,4
